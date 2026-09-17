@@ -25,6 +25,6 @@ Version: 0.5.4.6
 
 ### Develop Repository
 
-Repository: [Universal Mathematics System](https://github.com/Phy-David-Zhang/UnivMathSys)
+Repository: [Universal Mathematics System](https://github.com/changkai-zhang/UnivMathSys)
 
 This project is under the maintainance of Zhang Chang-kai, any collaborations can be achieved by email via [phy.zhangck@gmail.com](mailto:phy.zhangck@gmail.com) or open pull requests.
