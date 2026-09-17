@@ -19,7 +19,7 @@ author:
 social:
   name: Dr. Zhang Chang-kai
   links:
-    - https://github.com/Phy-David-Zhang
+    - https://github.com/changkai-zhang
 
 permalink: /:title
 include: ['_pages']

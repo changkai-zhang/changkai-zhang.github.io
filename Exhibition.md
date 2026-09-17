@@ -177,14 +177,14 @@ description: "Academic works of Zhang Chang-kai: degree theses, lecture notes, o
 
   <!-- Report on Scientific Haskell -->
   <article class="work-item">
-    <a href="https://github.com/Phy-David-Zhang/Scientific-Haskell">
+    <a href="https://github.com/changkai-zhang/Scientific-Haskell">
       <h3>Report on Haskell in Scientific Computation</h3></a>
     <p>This report analyse the possibility of invoking lazy evaluation scheme in Haskell to scientific computation. The efficiency of Schrodinger equation solvers in C, Haskell and Python are investigated and Haskell provides appealing outcomes.</p>
   </article>
 
   <!-- Schrodinger Equation Solver -->
   <article class="work-item">
-    <a href="https://github.com/Phy-David-Zhang/SchdgerEq">
+    <a href="https://github.com/changkai-zhang/SchdgerEq">
       <h3>Schrodinger Equation Solver in Haskell</h3></a>
     <p>This is a Haskell program aimed at solving time-dependent 1D Schrodinger equation using Runge-Kutta method. This program can be at most twice as fast as its Python companion without much loss of readability and extendibility.</p>
   </article>
